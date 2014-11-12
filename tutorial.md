@@ -1,5 +1,5 @@
 
-# Making Sprite-based Games with Canvas
+# Создание игр с использованием Canvas на основе спрайтов
 
 The [canvas element](http://www.whatwg.org/specs/web-apps/current-work/multipage/the-canvas-element.html) was introduced with [HTML5](http://en.wikipedia.org/wiki/HTML5) and provides an API for rendering on the web. The API is simple, but if you've never done graphics work before it might take some getting used to. It has great [cross-browser support](http://caniuse.com/#feat=canvas) at this point, and it makes the web a viable platform for games.
 
